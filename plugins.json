@@ -248,23 +248,6 @@
         "name": "GogoanimeProvider"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 8362,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "HDMProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/HDMProvider.cs3",
-        "name": "HDMProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
@@ -320,44 +303,6 @@
         "internalName": "KimCartoonProvider",
         "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/KimCartoonProvider.cs3",
         "name": "KimCartoonProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=melomovie.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 12383,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "MeloMovieProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/MeloMovieProvider.cs3",
-        "name": "MeloMovieProvider"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 32542,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 10,
-        "internalName": "NginxProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/NginxProvider.cs3",
-        "name": "NginxProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=9anime.id&sz=%size%",
@@ -419,44 +364,6 @@
         "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
         "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SflixProvider.cs3",
         "name": "SflixProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 18354,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "SoaptwoDayProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SoaptwoDayProvider.cs3",
-        "name": "SoaptwoDayProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.stremio.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 21034,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Cloudburst"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 2,
-        "internalName": "StremioProvider",
-        "description": "Allows you to use stremio addons. Requires setup. (Torrents and old api does not work)",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/StremioProvider.cs3",
-        "name": "StremioProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superembed.stream&sz=%size%",
@@ -521,25 +428,6 @@
         "name": "TenshiProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=theflix.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 44245,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "TheFlixToProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/TheFlixToProvider.cs3",
-        "name": "TheFlixToProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=trailers.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
@@ -599,25 +487,6 @@
         "description": "Includes many providers with the same layout as Vidstream",
         "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VidstreamBundle.cs3",
         "name": "VidstreamBundle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.vmovee.watch&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 9699,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "VMoveeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VMoveeProvider.cs3",
-        "name": "VMoveeProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=%size%",
