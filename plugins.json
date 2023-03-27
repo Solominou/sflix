@@ -135,26 +135,6 @@
         "name": "AsiaFlixProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ask4movie.mx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 13534,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AnimeMovie"
-        ],
-        "version": 4,
-        "internalName": "Ask4Movie",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/Ask4Movie.cs3",
-        "name": "Ask4Movie"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
@@ -248,26 +228,6 @@
         "name": "GogoanimeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 11518,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Documentary"
-        ],
-        "version": 1,
-        "internalName": "IHaveNoTvProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/IHaveNoTvProvider.cs3",
-        "name": "IHaveNoTvProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
@@ -322,26 +282,6 @@
         "internalName": "NineAnimeProvider",
         "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/NineAnimeProvider.cs3",
         "name": "NineAnimeProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=olgply.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 5914,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "OlgplyProvider",
-        "description": "Uses TMDB",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/OlgplyProvider.cs3",
-        "name": "OlgplyProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
