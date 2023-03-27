@@ -135,6 +135,22 @@
         "name": "AsiaFlixProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ask4movie.mx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 22313,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "version": 1,
+        "internalName": "Ask4Movie",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/B
+Ask4Movie.cs3",
+        "name": "Ask4Movie"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
