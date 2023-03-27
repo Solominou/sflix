@@ -138,13 +138,18 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ask4movie.mx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 22313,
-        "status": 0,
+        "fileSize": 13534,
+        "status": 1,
         "language": "en",
         "authors": [
-            
+            "Blatzar"
         ],
-        "version": 1,
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AnimeMovie"
+        ],
+        "version": 4,
         "internalName": "Ask4Movie",
         "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/Ask4Movie.cs3",
         "name": "Ask4Movie"
