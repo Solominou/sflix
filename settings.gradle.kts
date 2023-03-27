@@ -5,7 +5,7 @@ rootProject.name = "CloudstreamPlugins"
 
 // Plugins are included like this
 val disabled = listOf<String>(
-    "KisskhProvider", "Topdocumentaryfilms", "Tvtwofourseven", "WcofunProvider"
+    "SoaptwoDayProvider", "Topdocumentaryfilms", "Tvtwofourseven", "WcofunProvider"
 )
 
 File(rootDir, ".").eachDir { dir ->
