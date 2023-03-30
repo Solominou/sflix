@@ -262,6 +262,8 @@
             
         ],
         "tvTypes": [
+            "Movie",
+            "TvSeries",
             "Cartoon"
         ],
         "version": 1,
