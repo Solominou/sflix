@@ -155,21 +155,6 @@
         "name": "Ask4Movie"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 22313,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "version": 1,
-        "internalName": "BflixProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/BflixProvider.cs3",
-        "name": "BflixProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=crunchyroll.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
