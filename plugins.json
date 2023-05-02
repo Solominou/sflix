@@ -252,26 +252,6 @@
         "name": "KawaiifuProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 11505,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "KimCartoonProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/KimCartoonProvider.cs3",
-        "name": "KimCartoonProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=9anime.id&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
