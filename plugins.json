@@ -1,69 +1,5 @@
 [
    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 16975,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "DubbedAnimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/DubbedAnimeProvider.cs3",
-        "name": "DubbedAnimeProvider"
-    },
-
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=gogoanime.lu&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 24845,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "GogoanimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/GogoanimeProvider.cs3",
-        "name": "GogoanimeProvider"
-    },
-    
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 61458,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 13,
-        "internalName": "SflixProvider",
-        "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SflixProvider.cs3",
-        "name": "SflixProvider"
-    },
-    
-    {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sflix",
         "fileSize": 5144,
@@ -81,48 +17,6 @@
         "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VidSrcProvider.cs3",
         "name": "VidSrcProvider"
     },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sflix",
-        "fileSize": 63594,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Anime",
-            "Movie",
-            "AnimeMovie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "VidstreamBundle",
-        "description": "Includes many providers with the same layout as Vidstream",
-        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VidstreamBundle.cs3",
-        "name": "VidstreamBundle"
-    },
-   {
-"iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/SuperStream/icon.png",
-"apiVersion": 1,
-"repositoryUrl": "https://github.com/Solominou/sflix",
-"fileSize": 55587,
-"status": 1,
-"language": "en",
-"authors": [
-"Blatzar"
-],
-"tvTypes": [
-"Anime",
-"Movie",
-"AnimeMovie",
-"TvSeries"
-],
-"version": 8,
-"internalName": "SuperStream",
-"url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SuperStream.cs3",
-"name": "SuperStream"
-},
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=%size%",
         "apiVersion": 1,
